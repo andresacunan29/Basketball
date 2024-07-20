@@ -30,13 +30,10 @@ Among those teams, 27.88% of their top 5 minutes-played players participated in 
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-
-git clone https://github.com/yourusername/nba-performance-analysis.git
 
 Navigate to the project directory:
 
-cd nba-performance-analysis
+cd Basketballl
 
 Install the required packages:
 Ensure you have R installed, then run:
